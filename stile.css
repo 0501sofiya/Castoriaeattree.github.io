@@ -102,3 +102,159 @@ font-family: Arial, Helvetica, sans-serif;
 text-shadow: 0 0 5px 15px #ffa4a4b9;
 
 }
+ .atas {
+height: 25px;
+width: 400px;
+border-radius: 30px;
+float: left;
+text-align: center;
+margin-top: 15px;
+margin-left: 10px;
+color: blanchedalmond;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .help {
+height: 40px;
+width: 400px;
+border-radius: 30px;
+float: right;
+text-align: center;
+margin-top:5px;
+margin-right: 10px;
+color: #ffa9b0;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+
+
+
+
+ @media only screen and (max-width: 600px)
+  {  
+   .osnova {
+    height: 580px;
+    width: 1200px;
+ 
+    margin: auto;
+}
+.panel {
+height: 50px;
+width:1200px ;
+background-color: rgb(247, 144, 27);
+color: #ffa4a4;
+font-size: 22px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center ;
+}
+.title {
+    margin-bottom: 10px;
+    height:150px;
+    width:1200px;
+    background-image:url("img/Каструляня.jpg");
+    margin-top: 10px;
+}
+.content {
+    margin-bottom: 10px;
+    height:910px;
+    width:550px;
+ 
+}
+.photos {
+margin-bottom: 10px;
+height: 450px;
+width: 550px;
+
+float: none;
+}
+.text{
+margin-bottom: 10px;
+height: 450px;
+width: 550px;
+margin-top: 10px;
+float: none;
+
+
+
+}
+.text1{
+margin-bottom: 10px;
+height: 450px;
+width: 575px;
+background-color: rgb(166, 142, 253);
+float: right;
+padding-left: 10px;
+text-align: justify;
+padding-right: 10px;
+
+}
+.footer{
+margin-bottom: 10px;
+height: 50px;
+width: 1200px;
+background-color: rgb(78, 19, 133);
+border-radius: 25px;
+}
+.priklad{
+height: 100;
+width: 100px;
+background-color: rgb(47, 0, 255);
+
+}
+
+.logo {
+height: 50px;
+width: 100px;
+background-image:url("img/dj3.png");
+margin-left: 25px;
+float: left;
+}
+.galery, .contacts {  
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: right;
+margin-right: 35px;
+margin-top: 15px;
+color: #ffffff;
+}
+.nazva{
+height: 135px;
+width: 475px;
+background-color: rgba(0, 0, 0, 0.267);
+padding-top: 15px;
+padding-left: 25px;
+color: rgb(255, 255, 255);
+font-size: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+color: blue;
+font-size: 40px;
+
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+text-shadow: 0 0 5px 15px #ffa4a4b9;
+
+}
+ .atas {
+height: 25px;
+width: 400px;
+border-radius: 30px;
+float: left;
+text-align: center;
+margin-top: 15px;
+margin-left: 10px;
+color: blanchedalmond;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .help {
+height: 40px;
+width: 400px;
+border-radius: 30px;
+float: right;
+text-align: center;
+margin-top:5px;
+margin-right: 10px;
+color: #ffa9b0;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ } 
+ }
